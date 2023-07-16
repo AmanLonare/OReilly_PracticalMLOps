@@ -14,3 +14,4 @@ def add_numbers(num: List) -> int:
     '''
     result = sum(num)
     return result
+    
